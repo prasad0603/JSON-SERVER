@@ -1,0 +1,20 @@
+{
+    "students": [
+      {
+        "id": "101",
+        "name": "prasad",
+        "branch": "cst"
+      },
+      {
+        "id": "102",
+        "name": "prasad",
+        "branch": "cst"
+      },
+      {
+        "id": "103",
+        "name": "prasad",
+        "branch": "cst"
+      }
+    ]
+  }
+  
